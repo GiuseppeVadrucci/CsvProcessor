@@ -24,3 +24,6 @@ python test.py weather.dat weather.csv MxT MnT Dy
 or 
 
 python test.py football.dat football.csv F A Team
+
+
+You can change the passed arguments.
