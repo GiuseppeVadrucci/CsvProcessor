@@ -1,5 +1,5 @@
 # CsvProcessor
-A class to convert a table.dat in a table.csv, to perform differenze between two columns and to print the value with the minimum difference from a result column. You can pass the colomuns and the files as arguments.
+A class to convert a table.dat in a table.csv, to perform difference between two columns and to print the value with the minimum difference from a result column. You can pass the colomuns and the files as arguments.
 
 
 Usage:
